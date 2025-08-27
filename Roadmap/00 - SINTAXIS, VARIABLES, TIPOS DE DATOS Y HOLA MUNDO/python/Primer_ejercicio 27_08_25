@@ -1,0 +1,51 @@
+# Este es el comentario: ' He elegido a Python'
+print("https//www.python.org/") 
+https//www.python.org/
+
+
+# Comentario en una linea
+
+"""
+Comentario en
+mas de
+dos
+lineas de texto
+"""
+
+# Otra forma de hacer un comentario en mas de dos lineas con comillas simples
+
+'''
+Sintaxis en
+mas de
+dos
+lineas de texto
+'''
+
+# Variable y constante:
+
+variable_ejercicio = "variable para este ejercicio"
+
+# Constante por convenio
+
+constante_ejercicio = "constante para este ejercicio"
+
+# Tipos de datos
+
+dato_string = "Una cadena de texto"  
+dato_entero = 4
+dato_booleano = 4.1284
+dato_float_1 = True
+dato_float_2 = False
+
+# Tipos de datos con la funcion Type:
+
+print(type("Una cadena de texto"))   <class 'str'>
+print(type(4))                       <class 'int'>
+print(type(4.1284))                  <class 'float'>
+print(type(True))                    <class 'bool'>
+print(type(False))                   <class 'bool'>
+
+# Impresion del nombre del lenguaje de programacion en pantalla.
+
+print("Hola python")
+Hola python
